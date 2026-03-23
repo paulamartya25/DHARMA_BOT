@@ -76,5 +76,10 @@ CSS variables for theming — one change cascades across the entire UI instantly
 
 Voice input — speak your question out loud
 Image generation — see the gods and scenes visually
+
+Some screenshots ofthe chatbot :
+<img width="1920" height="905" alt="Screenshot (1180)" src="https://github.com/user-attachments/assets/027ab766-855c-4dc4-be9f-228562e6ae0e" />
+<img width="1920" height="912" alt="Screenshot (1174)" src="https://github.com/user-attachments/assets/82f17756-6bfb-45ce-bf23-378fc4aa4b68" />
+
 Bookmark feature — save your favorite stories
 Share a story — send a mythology story to a friend
